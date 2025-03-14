@@ -1,0 +1,1 @@
+ref: [link](https://developer.hashicorp.com/terraform/tutorials/certification-003/associate-review-003)
